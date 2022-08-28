@@ -172,6 +172,7 @@ html{
         padding: 2rem 3rem;
         text-align: center;
         align-items: center;
+        justify-content: space-around;
     }
 
     .details{
