@@ -163,6 +163,7 @@ html{
     .title{
         font-size: 5rem;
         line-height: normal;
+        margin-top: -2rem;
     }
 
     .illustration{
@@ -207,7 +208,7 @@ html{
     }
 
     .btn{
-        margin-top: 5rem;
+        margin-top: 4rem;
         font-size: 2.5rem;
     }
 
