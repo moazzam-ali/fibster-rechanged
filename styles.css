@@ -95,6 +95,8 @@ html{
     margin-top: 9vh;
     transition: all .2s;
     box-shadow: 0px 0px 7px 2px #fe0666;
+    display: flex;
+
 }
 
 .btn:hover{
@@ -155,7 +157,7 @@ html{
     }
 
     .container{
-        max-height: fit-content;
+        height: fit-content;
     }
 
     .title{
@@ -178,6 +180,7 @@ html{
     .details{
         width: 100%;
         font-size: 2.5rem;
+        margin-top: -1rem;
     }
 
     .logo{
