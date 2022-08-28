@@ -163,7 +163,7 @@ html{
     .title{
         font-size: 5rem;
         line-height: normal;
-        margin-top: -4rem;
+        margin-top: -5rem;
     }
 
     .illustration{
@@ -176,12 +176,13 @@ html{
         text-align: center;
         align-items: center;
         justify-content: space-around;
+        padding-block-end: 6rem;
     }
 
     .details{
         width: 100%;
         font-size: 2.5rem;
-        margin-top: -5rem;
+        margin-top: -4rem;
     }
 
     .logo{
@@ -204,11 +205,11 @@ html{
     }
 
     .availability{
-        margin-top: -4rem;
+        margin-top: 0;
     }
 
     .btn{
-        margin-top: -4rem;
+        margin-top: 0;
         font-size: 2.5rem;
     }
 
